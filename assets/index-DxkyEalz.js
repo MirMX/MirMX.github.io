@@ -76,7 +76,7 @@ Error generating stack: `+o.message+`
 			c63.82-30.01,127.02-58.65,189.52-85.96s124.31-53.3,185.43-78.09c-121.36-46.71-246.62-99.55-374.95-159.48\r
 			C1421.03,816.56,1374.74,794.19,1329.4,771.59L1329.4,771.59z`}),w.jsx("path",{d:`M1026.05,0c-39.67,137.67-87.95,282.13-146.86,431.54c-19.58,49.67-39.62,98.04-59.98,145.11v0\r
 			c0,113.33,91.69,205.21,204.8,205.21s204.8-91.88,204.8-205.21v0c-20.42-46.89-40.46-95.26-59.98-145.11\r
-			C1110,281.39,1063.28,136.76,1026.05,0L1026.05,0z`})]});function UA(){return w.jsx("section",{id:"welcome",children:w.jsxs("div",{className:"welcome-intro",children:[w.jsx("img",{src:"https://api.pcloud.com/getpubthumb?code=XZi7iI0ZtIukqVLOAlyOemvHVjdWqmuNs6NV&linkpassword=undefined&size=1440x810&crop=0&type=auto",alt:""}),w.jsxs("div",{className:"alta-welcome-text",children:[w.jsx("br",{}),"JetaLink",w.jsx("br",{}),w.jsx(Jd,{className:"jeta-welcome-logo"}),w.jsx("br",{}),"Magic ",w.jsx("br",{})," Communication"]})]})})}var QP={exports:{}};/*!
+			C1110,281.39,1063.28,136.76,1026.05,0L1026.05,0z`})]});function UA(){return w.jsx("section",{id:"welcome",children:w.jsxs("div",{className:"welcome-intro",children:[w.jsx("img",{src:"https://api.pcloud.com/getpubthumb?code=XZi7iI0ZtIukqVLOAlyOemvHVjdWqmuNs6NV&linkpassword=undefined&size=1440x810&crop=0&type=auto",alt:""}),w.jsxs("div",{className:"alta-welcome-text",children:["JetaLink",w.jsx("br",{}),w.jsx(Jd,{className:"jeta-welcome-logo"}),w.jsx("br",{}),"Communication ",w.jsx("br",{})," Magic"]})]})})}var QP={exports:{}};/*!
 	Copyright (c) 2018 Jed Watson.
 	Licensed under the MIT License (MIT), see
 	http://jedwatson.github.io/classnames
